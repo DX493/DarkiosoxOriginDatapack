@@ -1,0 +1,25 @@
+{
+    "type": "origins:conditioned_attribute",
+    "modifier": {
+        "attribute": "generic.movement_speed",
+        "operation": "addition",
+        "value": 0.01
+    },
+    "tick_rate": 30,
+    "condition": {
+        "type": "origins:daytime",
+        "inverted": true
+    },
+    "name": "Aisance pénombreuse",
+    "description": "Vous vous déplacez pour rapidement la nuit.",
+    "badges": [
+        {
+            "sprite": "origins:textures/gui/badge/info.png",
+            "text": "0.01 de ms supplémentaire + (0.1 basique)"
+        },
+        {
+            "sprite": "darkiosoxorigin:textures/icons/bonus.png",
+            "text": "Bonus"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "type": "origins:night_vision",
+    "strenght": 0.5,
+    "name": "Maître nocturne",
+    "description": "Votre perception ne vous trahit pas dans l'obscurité.",
+    "badges": [
+        {
+            "sprite": "minecraft:textures/mob_effect/night_vision.png",
+            "text": "Vision éclaircie dans les lieux sombres."
+        },
+        {
+            "sprite": "darkiosoxorigin:textures/icons/bonus.png",
+            "text": "Bonus"
+        }
+    ]
+}

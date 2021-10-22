@@ -1,0 +1,9 @@
+{
+    "type": "origins:particle",
+    "particle": "minecraft:soul_fire_flame",
+    "frequency": 1,
+    "condition": {
+        "type": "origins:sprinting"
+    },
+    "hidden": true
+}

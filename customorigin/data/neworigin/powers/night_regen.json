@@ -1,0 +1,24 @@
+{
+    "type": "origins:action_over_time",
+    "entity_action": {
+        "type": "origins:heal",
+        "amount": 1
+    },
+    "interval": 100,
+    "condition": {
+        "type": "origins:daytime",
+        "inverted": true
+    },
+    "name": "Harmonie nocturne",
+    "description": "Durant les nuits, votre enveloppe se regénère davantage.",
+    "badges": [
+        {
+            "sprite": "origins:textures/gui/badge/info.png",
+            "text": "1 coeur toutes les 5 secondes"
+        },
+        {
+            "sprite": "darkiosoxorigin:textures/icons/bonus.png",
+            "text": "Bonus"
+        }
+    ]
+}

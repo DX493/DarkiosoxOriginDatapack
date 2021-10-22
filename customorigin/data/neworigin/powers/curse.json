@@ -1,0 +1,38 @@
+{
+    "type":"origins:target_action_on_hit",
+    "entity_action": {
+        "type": "origins:chance",
+        "action": {
+            "type": "origins:apply_effect",
+            "effect": {
+                "effect": "minecraft:wither",
+                "amplifier": 1,
+                "duration": 60
+            }
+        },
+        "chance": 0.4
+      },
+      "cooldown": 60,
+      "hud_render": {
+        "should_render": true,
+        "sprite_location": "origins:textures/gui/community/spiderkolo/resource_bar_03.png",
+        "bar_index": 5
+      },
+      "name": "Touché maudit",
+      "description": "Vos attaques peuvent maudir la cible.",
+      "badges": [
+        {
+            "sprite": "minecraft:textures/particle/soul_1.png",
+            "text": "Passif"
+        },
+        {
+            "sprite": "origins:textures/gui/badge/info.png",
+            "text": "40% de chance de proc à l'attaque / 3 sec CD"
+        },
+        {
+            "sprite": "darkiosoxorigin:textures/icons/bonus.png",
+            "text": "Bonus"
+        }
+
+    ]
+}

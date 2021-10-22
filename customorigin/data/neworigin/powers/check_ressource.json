@@ -1,0 +1,5 @@
+{
+    "type": "origins:simple",
+    "name": "Check",
+    "description": "If you see this message, you must download the ressource pack !"
+}

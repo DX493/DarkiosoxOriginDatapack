@@ -1,0 +1,19 @@
+{
+	"powers": [
+		"neworigin:check_ressource",
+		"neworigin:curse",
+        "neworigin:night_master",
+		"neworigin:night_regen",
+		"neworigin:night_speed",
+		"neworigin:wither_immunity",
+		"neworigin:spectral",
+		"neworigin:soul_particle",
+		"neworigin:soul_fire_flame",
+		"neworigin:sun_weakness"
+	],
+	"icon": "minecraft:wither_skeleton_skull",
+	"order": 10,
+	"impact": 1,
+    "name": "Spectre",
+    "description": "Une origine en cours de créa. (Darkiosox :) )"
+}

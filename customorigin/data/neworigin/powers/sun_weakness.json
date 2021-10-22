@@ -1,0 +1,24 @@
+{
+    "type": "origins:conditioned_attribute",
+    "modifier": {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "addition",
+        "value": -4
+    },
+    "tick_rate": 40,
+    "condition": {
+        "type": "origins:exposed_to_sun"
+    },
+    "name": "Héliophobie",
+    "description": "Vous exposer au soleil vous rend plus faible.",
+    "badges": [
+        {
+            "sprite": "minecraft:textures/mob_effect/instant_damage.png",
+            "text": "Passif : Perte de 2 cœurs."
+        },
+        {
+            "sprite": "darkiosoxorigin:textures/icons/malus.png",
+            "text": "Malus"
+        }
+    ]
+}

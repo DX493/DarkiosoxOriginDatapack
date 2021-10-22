@@ -1,0 +1,9 @@
+{
+    "type": "origins:model_color",
+    "red": 0.3,
+    "green": 0.3,
+    "blue": 1,
+    "alpha": 0.8,
+    "name": "Ombreux",
+    "description": "Votre apparence est altérée."
+}
