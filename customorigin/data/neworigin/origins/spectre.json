@@ -14,6 +14,6 @@
 	"icon": "minecraft:wither_skeleton_skull",
 	"order": 10,
 	"impact": 1,
-    "name": "darkiosox.origin.name.ghost",
-    "description": "darkiosox.origin.description.ghost"
+    "name": "darkiosox.origin.ghost.name",
+    "description": "darkiosox.origin.ghost.description"
 }

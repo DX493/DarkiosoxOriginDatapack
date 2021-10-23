@@ -1,8 +1,8 @@
 {
     "type": "origins:night_vision",
     "strenght": 0.5,
-    "name": "Maître nocturne",
-    "description": "Votre perception ne vous trahit pas dans l'obscurité.",
+    "name": "darkiosox.origin.powers.night_master.name",
+    "description": "darkiosox.origin.powers.night_master.description",
     "badges": [
         {
             "sprite": "minecraft:textures/mob_effect/night_vision.png",
