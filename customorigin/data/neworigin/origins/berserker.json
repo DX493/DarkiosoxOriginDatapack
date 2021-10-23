@@ -1,10 +1,11 @@
 {
     "powers": [
-        "neworigin:check_resource"
+        "neworigin:check_resource",
+        "neworigin:berserk_frenzy"
     ],
-    "icon": "",
+    "icon": "minecraft:iron_axe",
     "order": 11,
     "impact": 1,
-    "name": "Berserker",
-    "description": "IC"
+    "name": "darkiosox.origin.name.berserker",
+    "description": "darkiosox.origin.description.berserker"
 }

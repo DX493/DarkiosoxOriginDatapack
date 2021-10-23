@@ -9,12 +9,12 @@
     "condition": {
         "type": "origins:exposed_to_sun"
     },
-    "name": "Héliophobie",
-    "description": "Vous exposer au soleil vous rend plus faible.",
+    "name": "darkiosox.origin.powers.sun_weakness.name",
+    "description": "darkiosox.origin.powers.sun_weakness.description",
     "badges": [
         {
             "sprite": "minecraft:textures/mob_effect/instant_damage.png",
-            "text": "Passif : Perte de 2 cœurs."
+            "text": "Passif : darkiosox.origin.powers.sun_weakness.info"
         },
         {
             "sprite": "darkiosoxorigin:textures/icons/malus.png",

@@ -4,6 +4,6 @@
     "green": 0.3,
     "blue": 1,
     "alpha": 0.8,
-    "name": "Ombreux",
-    "description": "Votre apparence est altérée."
+    "name": "darkiosox.origin.powers.spectral.name",
+    "description": "darkiosox.origin.powers.spectral.description"
 }

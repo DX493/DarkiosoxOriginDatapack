@@ -9,12 +9,12 @@
         "type": "origins:daytime",
         "inverted": true
     },
-    "name": "Harmonie nocturne",
-    "description": "Durant les nuits, votre enveloppe se regénère davantage.",
+    "name": "darkiosox.origin.powers.night_regen.name",
+    "description": "darkiosox.origin.powers.night_regen.description",
     "badges": [
         {
             "sprite": "origins:textures/gui/badge/info.png",
-            "text": "1 coeur toutes les 5 secondes"
+            "text": "darkiosox.origin.powers.night_regen.info"
         },
         {
             "sprite": "darkiosoxorigin:textures/icons/bonus.png",

@@ -18,8 +18,8 @@
         "sprite_location": "origins:textures/gui/community/spiderkolo/resource_bar_03.png",
         "bar_index": 5
       },
-      "name": "Touché maudit",
-      "description": "Vos attaques peuvent maudir la cible.",
+      "name": "darkiosox.origin.powers.cursed_touch.name",
+      "description": "darkiosox.origin.powers.cursed_touch.description",
       "badges": [
         {
             "sprite": "minecraft:textures/particle/soul_1.png",
@@ -27,7 +27,7 @@
         },
         {
             "sprite": "origins:textures/gui/badge/info.png",
-            "text": "40% de chance de proc à l'attaque / 3 sec CD"
+            "text": "darkiosox.origin.powers.cursed_touch.info"
         },
         {
             "sprite": "darkiosoxorigin:textures/icons/bonus.png",

@@ -14,6 +14,6 @@
 	"icon": "minecraft:wither_skeleton_skull",
 	"order": 10,
 	"impact": 1,
-    "name": "Spectre",
-    "description": "Une origine en cours de créa. (Darkiosox :) )"
+    "name": "darkiosox.origin.name.ghost",
+    "description": "darkiosox.origin.description.ghost"
 }

@@ -1,8 +1,8 @@
 {
     "type": "origins:effect_immunity",
     "effect": "minecraft:wither",
-    "name": "Immunité Wither",
-    "description": "Immunité contre l'effet \"wither\" ",
+    "name": "darkiosox.origin.powers.wither_immunity.name",
+    "description": "darkiosox.origin.powers.wither_immunity.description",
     "badges": [
         {
             "sprite": "darkiosoxorigin:textures/icons/bonus.png",
