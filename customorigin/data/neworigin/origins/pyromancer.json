@@ -1,0 +1,10 @@
+{
+    "powers": [
+        "neworigin:check_resource"
+    ],
+    "icon": "",
+    "order": 12,
+    "impact": 1,
+    "name": "Pyromancer",
+    "description": "IC"
+}

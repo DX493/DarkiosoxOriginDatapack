@@ -1,0 +1,10 @@
+{
+    "powers": [
+        "neworigin:check_resource"
+    ],
+    "icon": "",
+    "order": 11,
+    "impact": 1,
+    "name": "Berserker",
+    "description": "IC"
+}

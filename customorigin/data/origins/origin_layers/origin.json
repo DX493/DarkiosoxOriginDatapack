@@ -1,6 +1,8 @@
 {
     "replace": false,
     "origins": [
-        "neworigin:spectre"
+        "neworigin:spectre",
+        "neworigin:berserker",
+        "neworigin:pyromancer"
     ]
 }

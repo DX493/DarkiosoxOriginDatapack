@@ -1,6 +1,6 @@
 {
 	"powers": [
-		"neworigin:check_ressource",
+		"neworigin:check_resource",
 		"neworigin:curse",
         "neworigin:night_master",
 		"neworigin:night_regen",
